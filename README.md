@@ -1,4 +1,4 @@
-# SF-Lightning-DynamicLookup
+# SF-Lightning-Lookup
 
 :point_right: **_Note: This component was built with version 40.0 (Summer 17). Different behaviour noticed with previous releases because of lightning:input use._**
 
